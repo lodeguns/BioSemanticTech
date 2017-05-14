@@ -1,0 +1,1592 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns="http://www.w3.org/2005/02/13-KEGG/#" xmlns:k="http://www.w3.org/2005/02/13-KEGG/#">
+<k:Pathway k:org="aae" k:number="00010" k:title="Glycolysis / Gluconeogenesis">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/path#aae00010"/>
+    <k:image rdf:resource="http://www.genome.jp/kegg/pathway/aae/aae00010.gif"/>
+    <k:link rdf:resource="http://www.genome.jp/dbget-bin/show_pathway?aae00010"/>
+
+    <k:entry><Gene rdf:nodeID="_1">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/aae#aq_186"/>
+      <k:reaction rdf:resource="http://www.w3.org/2005/02/13-KEGG/rn#R00710"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?aae+aq_186"/>
+        <k:graphics><Rectangle k:name="aldH1" k:fgcolor="#000000" k:bgcolor="#BFFFBF" k:x="170" k:y="1018" k:width="45" k:height="17"/></k:graphics>
+    
+    </Gene></k:entry>
+    <k:entry><Gene rdf:nodeID="_2">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/aae#aq_2103"/>
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/aae#aq_2104"/>
+      <k:reaction rdf:resource="http://www.w3.org/2005/02/13-KEGG/rn#R00235"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?aae+aq_2103+aq_2104"/>
+        <k:graphics><Rectangle k:name="acs'..." k:fgcolor="#000000" k:bgcolor="#BFFFBF" k:x="102" k:y="916" k:width="46" k:height="17"/></k:graphics>
+    
+    </Gene></k:entry>
+    <k:entry><Enzyme rdf:nodeID="_3">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/ec#1.2.1.5"/>
+        <k:graphics><Rectangle k:name="1.2.1.5" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="170" k:y="1039" k:width="45" k:height="17"/></k:graphics>
+    
+    </Enzyme></k:entry>
+    <k:entry><Compound rdf:nodeID="_4">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00033"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?compound+C00033"/>
+        <k:graphics><Circle k:name="C00033" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="102" k:y="971" k:width="8" k:height="8"/></k:graphics>
+    
+    </Compound></k:entry>
+    <k:entry><Map rdf:nodeID="_5">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/path#aae00650"/>
+      <k:link rdf:resource="http://www.genome.jp/kegg/pathway/aae/aae00650.html"/>
+        <k:graphics><Roundrectangle k:name="Butanoate metabolism" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="645" k:y="926" k:width="128" k:height="25"/></k:graphics>
+    
+    </Map></k:entry>
+    <k:entry><Map rdf:nodeID="_6">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/path#aae00660"/>
+      <k:link rdf:resource="http://www.genome.jp/kegg/pathway/aae/aae00660.html"/>
+        <k:graphics><Roundrectangle k:name="C5-Branched dibasic acid metabolism" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="683" k:y="898" k:width="205" k:height="25"/></k:graphics>
+    
+    </Map></k:entry>
+    <k:entry><Map rdf:nodeID="_7">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/path#aae00640"/>
+      <k:link rdf:resource="http://www.genome.jp/kegg/pathway/aae/aae00640.html"/>
+        <k:graphics><Roundrectangle k:name="Propanoate metabolism" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="677" k:y="866" k:width="131" k:height="25"/></k:graphics>
+    
+    </Map></k:entry>
+    <k:entry><Map rdf:nodeID="_8">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/path#aae00710"/>
+      <k:link rdf:resource="http://www.genome.jp/kegg/pathway/aae/aae00710.html"/>
+        <k:graphics><Roundrectangle k:name="Carbon fixation" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="643" k:y="720" k:width="90" k:height="25"/></k:graphics>
+    
+    </Map></k:entry>
+    <k:entry><Map rdf:nodeID="_9">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/path#aae00030"/>
+      <k:link rdf:resource="http://www.genome.jp/kegg/pathway/aae/aae00030.html"/>
+        <k:graphics><Roundrectangle k:name="Pentose phosphate pathway" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="749" k:y="360" k:width="62" k:height="231"/></k:graphics>
+    
+    </Map></k:entry>
+    <k:entry><Map rdf:nodeID="_10">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/path#aae00500"/>
+      <k:link rdf:resource="http://www.genome.jp/kegg/pathway/aae/aae00500.html"/>
+        <k:graphics><Roundrectangle k:name="Starch and sucrose metabolism" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="695" k:y="127" k:width="110" k:height="34"/></k:graphics>
+    
+    </Map></k:entry>
+    <k:entry><Map rdf:nodeID="_11">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/path#aae00040"/>
+      <k:link rdf:resource="http://www.genome.jp/kegg/pathway/aae/aae00040.html"/>
+        <k:graphics><Roundrectangle k:name="Pentose and glucuronate interconversions" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="680" k:y="90" k:width="142" k:height="34"/></k:graphics>
+    
+    </Map></k:entry>
+    <k:entry><Enzyme rdf:nodeID="_12">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/ec#4.1.1.1"/>
+        <k:graphics><Rectangle k:name="4.1.1.1" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="422" k:y="932" k:width="45" k:height="17"/></k:graphics>
+    
+    </Enzyme></k:entry>
+    <k:entry><Enzyme rdf:nodeID="_13">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/ec#1.1.1.71"/>
+        <k:graphics><Rectangle k:name="1.1.1.71" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="310" k:y="996" k:width="45" k:height="17"/></k:graphics>
+    
+    </Enzyme></k:entry>
+    <k:entry><Enzyme rdf:nodeID="_14">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/ec#1.1.1.2"/>
+        <k:graphics><Rectangle k:name="1.1.1.2" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="310" k:y="977" k:width="45" k:height="17"/></k:graphics>
+    
+    </Enzyme></k:entry>
+    <k:entry><Gene rdf:nodeID="_15">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/aae#aq_1240"/>
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/aae#aq_1362"/>
+      <k:reaction rdf:resource="http://www.w3.org/2005/02/13-KEGG/rn#R00754"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?aae+aq_1240+aq_1362"/>
+        <k:graphics><Rectangle k:name="adh2..." k:fgcolor="#000000" k:bgcolor="#BFFFBF" k:x="310" k:y="958" k:width="45" k:height="17"/></k:graphics>
+    
+    </Gene></k:entry>
+    <k:entry><Enzyme rdf:nodeID="_16">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/ec#4.1.1.1"/>
+        <k:graphics><Rectangle k:name="4.1.1.1" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="474" k:y="895" k:width="45" k:height="17"/></k:graphics>
+    
+    </Enzyme></k:entry>
+    <k:entry><Enzyme rdf:nodeID="_17">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/ec#1.2.4.1"/>
+        <k:graphics><Rectangle k:name="1.2.4.1" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="474" k:y="874" k:width="45" k:height="17"/></k:graphics>
+    
+    </Enzyme></k:entry>
+    <k:entry><Enzyme rdf:nodeID="_18">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/ec#1.2.4.1"/>
+        <k:graphics><Rectangle k:name="1.2.4.1" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="362" k:y="885" k:width="45" k:height="17"/></k:graphics>
+    
+    </Enzyme></k:entry>
+    <k:entry><Enzyme rdf:nodeID="_19">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/ec#2.3.1.12"/>
+        <k:graphics><Rectangle k:name="2.3.1.12" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="253" k:y="885" k:width="45" k:height="17"/></k:graphics>
+    
+    </Enzyme></k:entry>
+    <k:entry><Map rdf:nodeID="_20">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/path#map00072"/>
+      <k:link rdf:resource="http://www.genome.jp/kegg/pathway/map/map00072.html"/>
+        <k:graphics><Roundrectangle k:name="Synthesis and degradation of ketone bodies" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="156" k:y="880" k:width="96" k:height="44"/></k:graphics>
+    
+    </Map></k:entry>
+    <k:entry><Enzyme rdf:nodeID="_21">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/ec#1.1.1.27"/>
+        <k:graphics><Rectangle k:name="1.1.1.27" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="606" k:y="821" k:width="45" k:height="17"/></k:graphics>
+    
+    </Enzyme></k:entry>
+    <k:entry><Enzyme rdf:nodeID="_22">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/ec#1.2.1.51"/>
+        <k:graphics><Rectangle k:name="1.2.1.51" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="369" k:y="821" k:width="45" k:height="17"/></k:graphics>
+    
+    </Enzyme></k:entry>
+    <k:entry><Map rdf:nodeID="_23">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/path#aae00620"/>
+      <k:link rdf:resource="http://www.genome.jp/kegg/pathway/aae/aae00620.html"/>
+        <k:graphics><Roundrectangle k:name="Pyruvate metabolism" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="398" k:y="744" k:width="78" k:height="34"/></k:graphics>
+    
+    </Map></k:entry>
+    <k:entry><Enzyme rdf:nodeID="_24">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/ec#2.7.1.40"/>
+        <k:graphics><Rectangle k:name="2.7.1.40" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="532" k:y="768" k:width="45" k:height="17"/></k:graphics>
+    
+    </Enzyme></k:entry>
+    <k:entry><Map rdf:nodeID="_25">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/path#aae00020"/>
+      <k:link rdf:resource="http://www.genome.jp/kegg/pathway/aae/aae00020.html"/>
+        <k:graphics><Roundrectangle k:name="Citrate cycle (TCA cycle)" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="232" k:y="722" k:width="73" k:height="25"/></k:graphics>
+    
+    </Map></k:entry>
+    <k:entry><Map rdf:nodeID="_26">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/path#aae00010"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/get_linkdb?pathway+aae00010"/>
+        <k:graphics><Roundrectangle k:name="TITLE:Glycolysis / Gluconeogenesis" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="334" k:y="641" k:width="149" k:height="27"/></k:graphics>
+    
+    </Map></k:entry>
+    <k:entry><Gene rdf:nodeID="_27">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/aae#aq_484"/>
+      <k:reaction rdf:resource="http://www.w3.org/2005/02/13-KEGG/rn#R00658"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?aae+aq_484"/>
+        <k:graphics><Rectangle k:name="eno" k:fgcolor="#000000" k:bgcolor="#BFFFBF" k:x="532" k:y="685" k:width="45" k:height="17"/></k:graphics>
+    
+    </Gene></k:entry>
+    <k:entry><Gene rdf:nodeID="_28">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/aae#aq_1744"/>
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/aae#aq_1990"/>
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/aae#aq_542"/>
+      <k:reaction rdf:resource="http://www.w3.org/2005/02/13-KEGG/rn#R01518"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?aae+aq_1744+aq_1990+aq_542"/>
+        <k:graphics><Rectangle k:name="gpmA..." k:fgcolor="#000000" k:bgcolor="#BFFFBF" k:x="532" k:y="628" k:width="45" k:height="17"/></k:graphics>
+    
+    </Gene></k:entry>
+    <k:entry><Enzyme rdf:nodeID="_29">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/ec#3.1.3.13"/>
+        <k:graphics><Rectangle k:name="3.1.3.13" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="579" k:y="609" k:width="45" k:height="17"/></k:graphics>
+    
+    </Enzyme></k:entry>
+    <k:entry><Enzyme rdf:nodeID="_30">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/ec#5.4.2.4"/>
+        <k:graphics><Rectangle k:name="5.4.2.4" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="579" k:y="588" k:width="45" k:height="17"/></k:graphics>
+    
+    </Enzyme></k:entry>
+    <k:entry><Enzyme rdf:nodeID="_31">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/ec#5.4.2.4"/>
+        <k:graphics><Rectangle k:name="5.4.2.4" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="579" k:y="538" k:width="45" k:height="17"/></k:graphics>
+    
+    </Enzyme></k:entry>
+    <k:entry><Map rdf:nodeID="_32">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/path#aae00561"/>
+      <k:link rdf:resource="http://www.genome.jp/kegg/pathway/aae/aae00561.html"/>
+        <k:graphics><Roundrectangle k:name="Glycerolipid metabolism" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="352" k:y="536" k:width="84" k:height="34"/></k:graphics>
+    
+    </Map></k:entry>
+    <k:entry><Map rdf:nodeID="_33">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/path#aae00052"/>
+      <k:link rdf:resource="http://www.genome.jp/kegg/pathway/aae/aae00052.html"/>
+        <k:graphics><Roundrectangle k:name="Galactose metabolism" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="437" k:y="504" k:width="80" k:height="34"/></k:graphics>
+    
+    </Map></k:entry>
+    <k:entry><Gene rdf:nodeID="_34">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/aae#aq_1065"/>
+      <k:reaction rdf:resource="http://www.w3.org/2005/02/13-KEGG/rn#R01061"/>
+      <k:reaction rdf:resource="http://www.w3.org/2005/02/13-KEGG/rn#R01063"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?aae+aq_1065"/>
+        <k:graphics><Rectangle k:name="gap" k:fgcolor="#000000" k:bgcolor="#BFFFBF" k:x="535" k:y="503" k:width="45" k:height="17"/></k:graphics>
+    
+    </Gene></k:entry>
+    <k:entry><Map rdf:nodeID="_35">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/path#aae00710"/>
+      <k:link rdf:resource="http://www.genome.jp/kegg/pathway/aae/aae00710.html"/>
+        <k:graphics><Roundrectangle k:name="Carbon fixation" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="106" k:y="469" k:width="140" k:height="38"/></k:graphics>
+    
+    </Map></k:entry>
+    <k:entry><Gene rdf:nodeID="_36">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/aae#aq_360"/>
+      <k:reaction rdf:resource="http://www.w3.org/2005/02/13-KEGG/rn#R01015"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?aae+aq_360"/>
+        <k:graphics><Rectangle k:name="timA" k:fgcolor="#000000" k:bgcolor="#BFFFBF" k:x="324" k:y="465" k:width="45" k:height="17"/></k:graphics>
+    
+    </Gene></k:entry>
+    <k:entry><Map rdf:nodeID="_37">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/path#aae00051"/>
+      <k:link rdf:resource="http://www.genome.jp/kegg/pathway/aae/aae00051.html"/>
+        <k:graphics><Roundrectangle k:name="Fructose and mannose metabolism" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="411" k:y="395" k:width="122" k:height="34"/></k:graphics>
+    
+    </Map></k:entry>
+    <k:entry><Gene rdf:nodeID="_38">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/aae#aq_1390"/>
+      <k:reaction rdf:resource="http://www.w3.org/2005/02/13-KEGG/rn#R01070"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?aae+aq_1390"/>
+        <k:graphics><Rectangle k:name="fba" k:fgcolor="#000000" k:bgcolor="#BFFFBF" k:x="532" k:y="419" k:width="45" k:height="17"/></k:graphics>
+    
+    </Gene></k:entry>
+    <k:entry><Gene rdf:nodeID="_39">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/aae#aq_1708"/>
+      <k:reaction rdf:resource="http://www.w3.org/2005/02/13-KEGG/rn#R04779"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?aae+aq_1708"/>
+        <k:graphics><Rectangle k:name="pfkA" k:fgcolor="#000000" k:bgcolor="#BFFFBF" k:x="563" k:y="362" k:width="45" k:height="17"/></k:graphics>
+    
+    </Gene></k:entry>
+    <k:entry><Enzyme rdf:nodeID="_40">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/ec#3.1.3.11"/>
+        <k:graphics><Rectangle k:name="3.1.3.11" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="502" k:y="362" k:width="45" k:height="17"/></k:graphics>
+    
+    </Enzyme></k:entry>
+    <k:entry><Enzyme rdf:nodeID="_41">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/ec#2.7.1.69"/>
+        <k:graphics><Rectangle k:name="2.7.1.69" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="609" k:y="212" k:width="45" k:height="17"/></k:graphics>
+    
+    </Enzyme></k:entry>
+    <k:entry><Gene rdf:nodeID="_42">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/aae#aq_750"/>
+      <k:reaction rdf:resource="http://www.w3.org/2005/02/13-KEGG/rn#R02740"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?aae+aq_750"/>
+        <k:graphics><Rectangle k:name="pgi" k:fgcolor="#000000" k:bgcolor="#BFFFBF" k:x="532" k:y="293" k:width="45" k:height="17"/></k:graphics>
+    
+    </Gene></k:entry>
+    <k:entry><Enzyme rdf:nodeID="_43">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/ec#5.4.2.2"/>
+        <k:graphics><Rectangle k:name="5.4.2.2" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="536" k:y="167" k:width="45" k:height="17"/></k:graphics>
+    
+    </Enzyme></k:entry>
+    <k:entry><Map rdf:nodeID="_44">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/path#aae00052"/>
+      <k:link rdf:resource="http://www.genome.jp/kegg/pathway/aae/aae00052.html"/>
+        <k:graphics><Roundrectangle k:name="Galactose metabolism" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="417" k:y="183" k:width="80" k:height="34"/></k:graphics>
+    
+    </Map></k:entry>
+    <k:entry><Gene rdf:nodeID="_45">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/aae#aq_750"/>
+      <k:reaction rdf:resource="http://www.w3.org/2005/02/13-KEGG/rn#R03321"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?aae+aq_750"/>
+        <k:graphics><Rectangle k:name="pgi" k:fgcolor="#000000" k:bgcolor="#BFFFBF" k:x="376" k:y="330" k:width="45" k:height="17"/></k:graphics>
+    
+    </Gene></k:entry>
+    <k:entry><Enzyme rdf:nodeID="_46">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/ec#2.7.1.1"/>
+        <k:graphics><Rectangle k:name="2.7.1.1" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="238" k:y="330" k:width="45" k:height="17"/></k:graphics>
+    
+    </Enzyme></k:entry>
+    <k:entry><Enzyme rdf:nodeID="_47">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/ec#2.7.1.2"/>
+        <k:graphics><Rectangle k:name="2.7.1.2" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="238" k:y="311" k:width="45" k:height="17"/></k:graphics>
+    
+    </Enzyme></k:entry>
+    <k:entry><Gene rdf:nodeID="_48">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/aae#aq_750"/>
+      <k:reaction rdf:resource="http://www.w3.org/2005/02/13-KEGG/rn#R02739"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?aae+aq_750"/>
+        <k:graphics><Rectangle k:name="pgi" k:fgcolor="#000000" k:bgcolor="#BFFFBF" k:x="332" k:y="289" k:width="45" k:height="17"/></k:graphics>
+    
+    </Gene></k:entry>
+    <k:entry><Enzyme rdf:nodeID="_49">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/ec#5.1.3.15"/>
+        <k:graphics><Rectangle k:name="5.1.3.15" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="283" k:y="289" k:width="45" k:height="17"/></k:graphics>
+    
+    </Enzyme></k:entry>
+    <k:entry><Enzyme rdf:nodeID="_50">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/ec#5.1.3.3"/>
+        <k:graphics><Rectangle k:name="5.1.3.3" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="172" k:y="288" k:width="45" k:height="17"/></k:graphics>
+    
+    </Enzyme></k:entry>
+    <k:entry><Enzyme rdf:nodeID="_51">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/ec#2.7.1.2"/>
+        <k:graphics><Rectangle k:name="2.7.1.2" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="236" k:y="248" k:width="45" k:height="17"/></k:graphics>
+    
+    </Enzyme></k:entry>
+    <k:entry><Enzyme rdf:nodeID="_52">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/ec#2.7.1.1"/>
+        <k:graphics><Rectangle k:name="2.7.1.1" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="236" k:y="229" k:width="45" k:height="17"/></k:graphics>
+    
+    </Enzyme></k:entry>
+    <k:entry><Enzyme rdf:nodeID="_53">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/ec#3.1.3.9"/>
+        <k:graphics><Rectangle k:name="3.1.3.9" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="338" k:y="211" k:width="45" k:height="17"/></k:graphics>
+    
+    </Enzyme></k:entry>
+    <k:entry><Enzyme rdf:nodeID="_54">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/ec#3.1.3.10"/>
+        <k:graphics><Rectangle k:name="3.1.3.10" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="338" k:y="137" k:width="45" k:height="17"/></k:graphics>
+    
+    </Enzyme></k:entry>
+    <k:entry><Enzyme rdf:nodeID="_55">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/ec#2.7.1.41"/>
+        <k:graphics><Rectangle k:name="2.7.1.41" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="338" k:y="117" k:width="45" k:height="16"/></k:graphics>
+    
+    </Enzyme></k:entry>
+    <k:entry><Map rdf:nodeID="_56">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/path#aae00010"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/get_linkdb?pathway+aae00010"/>
+        <k:graphics><Roundrectangle k:name="TITLE:Glycolysis / Gluconeogenesis" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="132" k:y="62" k:width="104" k:height="27"/></k:graphics>
+    
+    </Map></k:entry>
+    <k:entry><Gene rdf:nodeID="_57">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/aae#aq_736"/>
+      <k:reaction rdf:resource="http://www.w3.org/2005/02/13-KEGG/rn#R01698"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?aae+aq_736"/>
+        <k:graphics><Rectangle k:name="lpdA" k:fgcolor="#000000" k:bgcolor="#BFFFBF" k:x="310" k:y="927" k:width="45" k:height="17"/></k:graphics>
+    
+    </Gene></k:entry>
+    <k:entry><Map rdf:nodeID="_58">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/path#aae00520"/>
+      <k:link rdf:resource="http://www.genome.jp/kegg/pathway/aae/aae00520.html"/>
+        <k:graphics><Roundrectangle k:name="Nucleotide sugars metabolism" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="531" k:y="59" k:width="107" k:height="35"/></k:graphics>
+    
+    </Map></k:entry>
+    <k:entry><Map rdf:nodeID="_59">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/path#aae00730"/>
+      <k:link rdf:resource="http://www.genome.jp/kegg/pathway/aae/aae00730.html"/>
+        <k:graphics><Roundrectangle k:name="Thiamine metabolism" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="715" k:y="617" k:width="72" k:height="34"/></k:graphics>
+    
+    </Map></k:entry>
+    <k:entry><Map rdf:nodeID="_60">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/path#aae00770"/>
+      <k:link rdf:resource="http://www.genome.jp/kegg/pathway/aae/aae00770.html"/>
+        <k:graphics><Roundrectangle k:name="Pantothenate and CoA biosynthesis" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="674" k:y="954" k:width="187" k:height="26"/></k:graphics>
+    
+    </Map></k:entry>
+    <k:entry><Map rdf:nodeID="_61">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/path#aae00400"/>
+      <k:link rdf:resource="http://www.genome.jp/kegg/pathway/aae/aae00400.html"/>
+        <k:graphics><Roundrectangle k:name="Phenylalanine, tyrosine and tryptophan biosynthesis" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="643" k:y="688" k:width="87" k:height="34"/></k:graphics>
+    
+    </Map></k:entry>
+    <k:entry><Map rdf:nodeID="_62">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/path#aae00350"/>
+      <k:link rdf:resource="http://www.genome.jp/kegg/pathway/aae/aae00350.html"/>
+        <k:graphics><Roundrectangle k:name="Tyrosine metabolism" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="641" k:y="1039" k:width="121" k:height="25"/></k:graphics>
+    
+    </Map></k:entry>
+    <k:entry><Map rdf:nodeID="_63">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/path#aae00380"/>
+      <k:link rdf:resource="http://www.genome.jp/kegg/pathway/aae/aae00380.html"/>
+        <k:graphics><Roundrectangle k:name="Tryptophan metabolism" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="143" k:y="780" k:width="76" k:height="34"/></k:graphics>
+    
+    </Map></k:entry>
+    <k:entry><Map rdf:nodeID="_64">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/path#aae00440"/>
+      <k:link rdf:resource="http://www.genome.jp/kegg/pathway/aae/aae00440.html"/>
+        <k:graphics><Roundrectangle k:name="Aminophosphonate metabolism" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="91" k:y="703" k:width="108" k:height="34"/></k:graphics>
+    
+    </Map></k:entry>
+    <k:entry><Map rdf:nodeID="_65">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/path#aae00252"/>
+      <k:link rdf:resource="http://www.genome.jp/kegg/pathway/aae/aae00252.html"/>
+        <k:graphics><Roundrectangle k:name="Alanine and aspartate metabolism" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="670" k:y="983" k:width="178" k:height="26"/></k:graphics>
+    
+    </Map></k:entry>
+    <k:entry><Map rdf:nodeID="_66">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/path#aae00300"/>
+      <k:link rdf:resource="http://www.genome.jp/kegg/pathway/aae/aae00300.html"/>
+        <k:graphics><Roundrectangle k:name="Lysine biosynthesis" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="358" k:y="793" k:width="112" k:height="25"/></k:graphics>
+    
+    </Map></k:entry>
+    <k:entry><Map rdf:nodeID="_67">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/path#aae00473"/>
+      <k:link rdf:resource="http://www.genome.jp/kegg/pathway/aae/aae00473.html"/>
+        <k:graphics><Roundrectangle k:name="D-Alanine metabolism" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="645" k:y="1011" k:width="128" k:height="25"/></k:graphics>
+    
+    </Map></k:entry>
+    <k:entry><Gene rdf:nodeID="_68">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/aae#aq_118"/>
+      <k:reaction rdf:resource="http://www.w3.org/2005/02/13-KEGG/rn#R01512"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?aae+aq_118"/>
+        <k:graphics><Rectangle k:name="pgk" k:fgcolor="#000000" k:bgcolor="#BFFFBF" k:x="532" k:y="569" k:width="45" k:height="17"/></k:graphics>
+    
+    </Gene></k:entry>
+    <k:entry><Enzyme rdf:nodeID="_69">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/ec#3.6.1.7"/>
+        <k:graphics><Rectangle k:name="3.6.1.7" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="483" k:y="569" k:width="45" k:height="17"/></k:graphics>
+    
+    </Enzyme></k:entry>
+    <k:entry><Enzyme rdf:nodeID="_70">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/ec#2.7.1.63"/>
+        <k:graphics><Rectangle k:name="2.7.1.63" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="236" k:y="267" k:width="45" k:height="17"/></k:graphics>
+    
+    </Enzyme></k:entry>
+    <k:entry><Enzyme rdf:nodeID="_71">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/ec#2.7.1.63"/>
+        <k:graphics><Rectangle k:name="2.7.1.63" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="238" k:y="349" k:width="45" k:height="17"/></k:graphics>
+    
+    </Enzyme></k:entry>
+    <k:entry><Enzyme rdf:nodeID="_72">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/ec#3.1.6.3"/>
+        <k:graphics><Rectangle k:name="3.1.6.3" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="114" k:y="248" k:width="45" k:height="17"/></k:graphics>
+    
+    </Enzyme></k:entry>
+    <k:entry><Enzyme rdf:nodeID="_73">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/ec#3.1.6.3"/>
+        <k:graphics><Rectangle k:name="3.1.6.3" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="114" k:y="330" k:width="45" k:height="17"/></k:graphics>
+    
+    </Enzyme></k:entry>
+    <k:entry><Enzyme rdf:nodeID="_74">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/ec#4.6.1.-"/>
+        <k:graphics><Rectangle k:name="4.6.1.-" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="630" k:y="525" k:width="45" k:height="17"/></k:graphics>
+    
+    </Enzyme></k:entry>
+    <k:entry><Enzyme rdf:nodeID="_75">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/ec#2.7.2.-"/>
+        <k:graphics><Rectangle k:name="2.7.2.-" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="624" k:y="630" k:width="45" k:height="17"/></k:graphics>
+    
+    </Enzyme></k:entry>
+    <k:entry><Enzyme rdf:nodeID="_76">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/ec#2.7.1.69"/>
+        <k:graphics><Rectangle k:name="2.7.1.69" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="159" k:y="384" k:width="45" k:height="17"/></k:graphics>
+    
+    </Enzyme></k:entry>
+    <k:entry><Enzyme rdf:nodeID="_77">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/ec#2.7.1.69"/>
+        <k:graphics><Rectangle k:name="2.7.1.69" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="159" k:y="410" k:width="45" k:height="17"/></k:graphics>
+    
+    </Enzyme></k:entry>
+    <k:entry><Enzyme rdf:nodeID="_78">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/ec#3.2.1.86"/>
+        <k:graphics><Rectangle k:name="3.2.1.86" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="267" k:y="384" k:width="45" k:height="17"/></k:graphics>
+    
+    </Enzyme></k:entry>
+    <k:entry><Enzyme rdf:nodeID="_79">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/ec#3.2.1.86"/>
+        <k:graphics><Rectangle k:name="3.2.1.86" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="267" k:y="410" k:width="45" k:height="17"/></k:graphics>
+    
+    </Enzyme></k:entry>
+    <k:entry><Enzyme rdf:nodeID="_80">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/ec#1.1.99.8"/>
+        <k:graphics><Rectangle k:name="1.1.99.8" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="310" k:y="1017" k:width="45" k:height="17"/></k:graphics>
+    
+    </Enzyme></k:entry>
+    <k:entry><Compound rdf:nodeID="_81">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00031"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?compound+C00031"/>
+        <k:graphics><Circle k:name="C00031" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="650" k:y="212" k:width="8" k:height="8"/></k:graphics>
+    
+    </Compound></k:entry>
+    <k:entry><Compound rdf:nodeID="_82">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00103"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?compound+C00103"/>
+        <k:graphics><Circle k:name="C00103" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="536" k:y="127" k:width="8" k:height="8"/></k:graphics>
+    
+    </Compound></k:entry>
+    <k:entry><Compound rdf:nodeID="_83">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00631"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?compound+C00631"/>
+        <k:graphics><Circle k:name="C00631" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="532" k:y="657" k:width="8" k:height="8"/></k:graphics>
+    
+    </Compound></k:entry>
+    <k:entry><Compound rdf:nodeID="_84">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00267"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?compound+C00267"/>
+        <k:graphics><Circle k:name="C00267" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="172" k:y="248" k:width="8" k:height="8"/></k:graphics>
+    
+    </Compound></k:entry>
+    <k:entry><Compound rdf:nodeID="_85">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00221"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?compound+C00221"/>
+        <k:graphics><Circle k:name="C00221" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="172" k:y="330" k:width="8" k:height="8"/></k:graphics>
+    
+    </Compound></k:entry>
+    <k:entry><Compound rdf:nodeID="_86">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00111"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?compound+C00111"/>
+        <k:graphics><Circle k:name="C00111" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="251" k:y="465" k:width="8" k:height="8"/></k:graphics>
+    
+    </Compound></k:entry>
+    <k:entry><Compound rdf:nodeID="_87">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C01172"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?compound+C01172"/>
+        <k:graphics><Circle k:name="C01172" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="308" k:y="330" k:width="8" k:height="8"/></k:graphics>
+    
+    </Compound></k:entry>
+    <k:entry><Compound rdf:nodeID="_88">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00668"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?compound+C00668"/>
+        <k:graphics><Circle k:name="C00668" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="532" k:y="253" k:width="8" k:height="8"/></k:graphics>
+    
+    </Compound></k:entry>
+    <k:entry><Compound rdf:nodeID="_89">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00118"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?compound+C00118"/>
+        <k:graphics><Circle k:name="C00118" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="532" k:y="468" k:width="8" k:height="8"/></k:graphics>
+    
+    </Compound></k:entry>
+    <k:entry><Compound rdf:nodeID="_90">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C05345"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?compound+C05345"/>
+        <k:graphics><Circle k:name="C05345" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="532" k:y="336" k:width="8" k:height="8"/></k:graphics>
+    
+    </Compound></k:entry>
+    <k:entry><Compound rdf:nodeID="_91">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00074"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?compound+C00074"/>
+        <k:graphics><Circle k:name="C00074" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="532" k:y="720" k:width="8" k:height="8"/></k:graphics>
+    
+    </Compound></k:entry>
+    <k:entry><Compound rdf:nodeID="_92">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00197"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?compound+C00197"/>
+        <k:graphics><Circle k:name="C00197" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="532" k:y="599" k:width="8" k:height="8"/></k:graphics>
+    
+    </Compound></k:entry>
+    <k:entry><Compound rdf:nodeID="_93">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00236"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?compound+C00236"/>
+        <k:graphics><Circle k:name="C00236" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="532" k:y="538" k:width="8" k:height="8"/></k:graphics>
+    
+    </Compound></k:entry>
+    <k:entry><Compound rdf:nodeID="_94">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00186"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?compound+C00186"/>
+        <k:graphics><Circle k:name="C00186" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="676" k:y="821" k:width="8" k:height="8"/></k:graphics>
+    
+    </Compound></k:entry>
+    <k:entry><Compound rdf:nodeID="_95">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C01159"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?compound+C01159"/>
+        <k:graphics><Circle k:name="C01159" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="620" k:y="568" k:width="8" k:height="8"/></k:graphics>
+    
+    </Compound></k:entry>
+    <k:entry><Compound rdf:nodeID="_96">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00248"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?compound+C00248"/>
+        <k:graphics><Circle k:name="C00248" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="358" k:y="927" k:width="8" k:height="8"/></k:graphics>
+    
+    </Compound></k:entry>
+    <k:entry><Compound rdf:nodeID="_97">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00469"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?compound+C00469"/>
+        <k:graphics><Circle k:name="C00469" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="209" k:y="977" k:width="8" k:height="8"/></k:graphics>
+    
+    </Compound></k:entry>
+    <k:entry><Compound rdf:nodeID="_98">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00022"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?compound+C00022"/>
+        <k:graphics><Circle k:name="C00022" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="532" k:y="821" k:width="8" k:height="8"/></k:graphics>
+    
+    </Compound></k:entry>
+    <k:entry><Compound rdf:nodeID="_99">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C05125"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?compound+C05125"/>
+        <k:graphics><Circle k:name="C05125" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="422" k:y="885" k:width="8" k:height="8"/></k:graphics>
+    
+    </Compound></k:entry>
+    <k:entry><Compound rdf:nodeID="_100">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00068"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?compound+C00068"/>
+        <k:graphics><Circle k:name="C00068" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="422" k:y="845" k:width="8" k:height="8"/></k:graphics>
+    
+    </Compound></k:entry>
+    <k:entry><Compound rdf:nodeID="_101">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00024"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?compound+C00024"/>
+        <k:graphics><Circle k:name="C00024" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="215" k:y="820" k:width="8" k:height="8"/></k:graphics>
+    
+    </Compound></k:entry>
+    <k:entry><Compound rdf:nodeID="_102">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00084"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?compound+C00084"/>
+        <k:graphics><Circle k:name="C00084" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="422" k:y="977" k:width="8" k:height="8"/></k:graphics>
+    
+    </Compound></k:entry>
+    <k:entry><Compound rdf:nodeID="_103">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C01136"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?compound+C01136"/>
+        <k:graphics><Circle k:name="C01136" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="309" k:y="885" k:width="8" k:height="8"/></k:graphics>
+    
+    </Compound></k:entry>
+    <k:entry><Compound rdf:nodeID="_104">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00579"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?compound+C00579"/>
+        <k:graphics><Circle k:name="C00579" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="255" k:y="927" k:width="8" k:height="8"/></k:graphics>
+    
+    </Compound></k:entry>
+    <k:entry><Compound rdf:nodeID="_105">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C05378"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?compound+C05378"/>
+        <k:graphics><Circle k:name="C05378" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="532" k:y="386" k:width="8" k:height="8"/></k:graphics>
+    
+    </Compound></k:entry>
+    <k:entry><Compound rdf:nodeID="_106">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C02827"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?compound+C02827"/>
+        <k:graphics><Circle k:name="C02827" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="63" k:y="288" k:width="8" k:height="8"/></k:graphics>
+    
+    </Compound></k:entry>
+    <k:entry><Compound rdf:nodeID="_107">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C06189"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?compound+C06189"/>
+        <k:graphics><Circle k:name="C06189" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="624" k:y="494" k:width="8" k:height="8"/></k:graphics>
+    
+    </Compound></k:entry>
+    <k:entry><Compound rdf:nodeID="_108">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C06186"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?compound+C06186"/>
+        <k:graphics><Circle k:name="C06186" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="109" k:y="384" k:width="8" k:height="8"/></k:graphics>
+    
+    </Compound></k:entry>
+    <k:entry><Compound rdf:nodeID="_109">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C06187"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?compound+C06187"/>
+        <k:graphics><Circle k:name="C06187" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="216" k:y="384" k:width="8" k:height="8"/></k:graphics>
+    
+    </Compound></k:entry>
+    <k:entry><Compound rdf:nodeID="_110">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C06188"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?compound+C06188"/>
+        <k:graphics><Circle k:name="C06188" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="216" k:y="410" k:width="8" k:height="8"/></k:graphics>
+    
+    </Compound></k:entry>
+    <k:entry><Compound rdf:nodeID="_111">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C01451"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/www_bget?compound+C01451"/>
+        <k:graphics><Circle k:name="C01451" k:fgcolor="#000000" k:bgcolor="#FFFFFF" k:x="109" k:y="410" k:width="8" k:height="8"/></k:graphics>
+    
+    </Compound></k:entry>
+    <k:entry><Gene rdf:nodeID="_192">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/aae#aq_1390"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/show_pathway?aae00030+4.1.2.13"/>
+    </Gene></k:entry>
+    <k:entry><Gene rdf:nodeID="_193">
+      <k:name rdf:resource="http://www.w3.org/2005/02/13-KEGG/aae#aq_148"/>
+      <k:link rdf:resource="http://www.genome.jp/dbget-bin/show_pathway?aae00030+4.1.2.4"/>
+    </Gene></k:entry>
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+        
+    
+    
+        
+        
+    
+    
+        
+        
+    
+    
+        
+        
+    
+    
+        
+        
+    
+    
+        
+        
+    
+    
+        
+        
+    
+    
+        
+        
+    
+    
+        
+        
+        
+    
+    
+        
+        
+    
+    
+        
+        
+    
+    
+        
+        
+    
+    
+        
+        
+    
+    
+        
+        
+    
+    
+        
+        
+    
+
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+    
+    <k:relation><ECrel><k:entry1 rdf:resource="_42"/><k:entry2 rdf:resource="_48"/><compound rdf:resource="_88"/></ECrel></k:relation>
+    <k:relation><ECrel><k:entry1 rdf:resource="_39"/><k:entry2 rdf:resource="_42"/><compound rdf:resource="_90"/></ECrel></k:relation>
+    <k:relation><ECrel><k:entry1 rdf:resource="_38"/><k:entry2 rdf:resource="_39"/><compound rdf:resource="_105"/></ECrel></k:relation>
+    <k:relation><ECrel><k:entry1 rdf:resource="_34"/><k:entry2 rdf:resource="_38"/><compound rdf:resource="_89"/></ECrel></k:relation>
+    <k:relation><ECrel><k:entry1 rdf:resource="_36"/><k:entry2 rdf:resource="_38"/><compound rdf:resource="_86"/></ECrel></k:relation>
+    <k:relation><ECrel><k:entry1 rdf:resource="_36"/><k:entry2 rdf:resource="_38"/><compound rdf:resource="_89"/></ECrel></k:relation>
+    <k:relation><ECrel><k:entry1 rdf:resource="_34"/><k:entry2 rdf:resource="_36"/><compound rdf:resource="_89"/></ECrel></k:relation>
+    <k:relation><ECrel><k:entry1 rdf:resource="_34"/><k:entry2 rdf:resource="_68"/><compound rdf:resource="_93"/></ECrel></k:relation>
+    <k:relation><ECrel><k:entry1 rdf:resource="_28"/><k:entry2 rdf:resource="_68"/><compound rdf:resource="_92"/></ECrel></k:relation>
+    <k:relation><ECrel><k:entry1 rdf:resource="_27"/><k:entry2 rdf:resource="_28"/><compound rdf:resource="_83"/></ECrel></k:relation>
+    <k:relation><ECrel><k:entry1 rdf:resource="_1"/><k:entry2 rdf:resource="_15"/><compound rdf:resource="_102"/></ECrel></k:relation>
+    <k:relation><ECrel><k:entry1 rdf:resource="_1"/><k:entry2 rdf:resource="_2"/><compound rdf:resource="_4"/></ECrel></k:relation>
+    <k:relation><ECrel><k:entry1 rdf:resource="_39"/><k:entry2 rdf:resource="_45"/><compound rdf:resource="_90"/></ECrel></k:relation>
+    <k:relation><ECrel><k:entry1 rdf:resource="_34"/><k:entry2 rdf:resource="_192"/><compound rdf:resource="_89"/></ECrel></k:relation>
+    <k:relation><ECrel><k:entry1 rdf:resource="_34"/><k:entry2 rdf:resource="_193"/><compound rdf:resource="_89"/></ECrel></k:relation>
+    <k:relation><ECrel><k:entry1 rdf:resource="_36"/><k:entry2 rdf:resource="_192"/><compound rdf:resource="_89"/></ECrel></k:relation>
+    <k:relation><ECrel><k:entry1 rdf:resource="_36"/><k:entry2 rdf:resource="_193"/><compound rdf:resource="_89"/></ECrel></k:relation>
+    
+        
+        
+    
+    
+        
+        
+    
+    
+        
+        
+    
+    
+        
+        
+    
+    
+        
+        
+    
+    
+        
+        
+    
+    
+        
+        
+    
+    
+        
+        
+    
+    
+        
+        
+        
+    
+    
+        
+        
+    
+    
+        
+        
+    
+    
+        
+        
+    
+    
+        
+        
+    
+    
+        
+        
+    
+    
+        
+        
+    
+
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    
+        
+    
+    <k:reaction reversible="" rdf:about="http://www.w3.org/2005/02/13-KEGG/rn#R00710"><k:substrate rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00084"/><k:product rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00033"/></k:reaction>
+    <k:reaction reversible="" rdf:about="http://www.w3.org/2005/02/13-KEGG/rn#R00235"><k:substrate rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00033"/><k:product rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00024"/></k:reaction>
+    <k:reaction reversible="" rdf:about="http://www.w3.org/2005/02/13-KEGG/rn#R00754"><k:substrate rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00469"/><k:product rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00084"/></k:reaction>
+    <k:reaction reversible="" rdf:about="http://www.w3.org/2005/02/13-KEGG/rn#R00658"><k:substrate rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00631"/><k:product rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00074"/></k:reaction>
+    <k:reaction reversible="" rdf:about="http://www.w3.org/2005/02/13-KEGG/rn#R01518"><k:substrate rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00631"/><k:product rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00197"/></k:reaction>
+    <k:reaction reversible="" rdf:about="http://www.w3.org/2005/02/13-KEGG/rn#R01061"><k:substrate rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00118"/><k:product rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00236"/></k:reaction>
+    <k:reaction reversible="" rdf:about="http://www.w3.org/2005/02/13-KEGG/rn#R01063"><k:substrate rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00118"/><k:product rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00236"/></k:reaction>
+    <k:reaction reversible="" rdf:about="http://www.w3.org/2005/02/13-KEGG/rn#R01015"><k:substrate rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00118"/><k:product rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00111"/></k:reaction>
+    <k:reaction reversible="" rdf:about="http://www.w3.org/2005/02/13-KEGG/rn#R01070"><k:substrate rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C05378"/><k:product rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00118"/></k:reaction>
+    <k:reaction reversible="" rdf:about="http://www.w3.org/2005/02/13-KEGG/rn#R04779"><k:substrate rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C05345"/><k:product rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C05378"/></k:reaction>
+    <k:reaction reversible="" rdf:about="http://www.w3.org/2005/02/13-KEGG/rn#R02740"><k:substrate rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00668"/><k:product rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C05345"/></k:reaction>
+    <k:reaction reversible="" rdf:about="http://www.w3.org/2005/02/13-KEGG/rn#R03321"><k:substrate rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C01172"/><k:product rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C05345"/></k:reaction>
+    <k:reaction reversible="" rdf:about="http://www.w3.org/2005/02/13-KEGG/rn#R02739"><k:substrate rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00668"/><k:product rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C01172"/></k:reaction>
+    <k:reaction reversible="" rdf:about="http://www.w3.org/2005/02/13-KEGG/rn#R01698"><k:substrate rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00248"/><k:product rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00579"/></k:reaction>
+    <k:reaction reversible="" rdf:about="http://www.w3.org/2005/02/13-KEGG/rn#R01512"><k:substrate rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00197"/><k:product rdf:resource="http://www.w3.org/2005/02/13-KEGG/cpd#C00236"/></k:reaction>
+</k:Pathway>
+</rdf:RDF>
