@@ -1,5 +1,5 @@
 # Bio semantic-web technologies
-Bio semantic-web technology examples leveraging R, RDF, XSLT and SPARQL are shown.
+Bio semantic-web technology examples
 
 ### Bio semantics on metabolic netwoks and XSLT\RDF
 Is this document are represented some technologies for modelling and mapping a Knowledge Base from XSLT to RDF on a metabolic network. Are described the R libraries to import and update an RDF\OWL, changing the semantic formats.
