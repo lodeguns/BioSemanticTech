@@ -12,7 +12,7 @@ Finally it is shown an example of a SPARQL endpoint for building a new model thr
 
 
 ## Documentation
-Please follow:
+Please follow the
 [PDF documentation](https://github.com/lodeguns/BioSemanticTech/blob/master/Bio%20Semantic%20%20Source%20Code.R) and its relative references
 ## Source code
 The source code related to the documentation is  [here (XSLT)](https://github.com/lodeguns/BioSemanticTech/tree/master/KEGG%20XSLT) and [here (R)](https://github.com/lodeguns/BioSemanticTech/blob/master/Bio%20Semantic%20%20Source%20Code.R)
