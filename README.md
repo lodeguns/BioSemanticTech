@@ -2,7 +2,7 @@
 In this repository are shown basical bio semantic-web technology examples
 
 ### Bio semantics on metabolic netwoks and XSLT\RDF
-Is this document are represented some technologies for modelling and mapping a Knowledge Base from XSLT to RDF on a metabolic network. Are described the R libraries to import and update an RDF\OWL, changing the semantic formats.
+Is this document are represented some technologies for modelling and mapping a Knowledge Base from XSLT to RDF on a [KEGG](http://www.genome.jp/kegg/) metabolic network. Are described the R libraries to import and update an RDF\OWL, changing the semantic formats.
 
 ### Bio semantics on chemical compunds ([OpenTox ontology](http://ambit.sourceforge.net/download_ontologyservice.html)), R and SPRQL.
 It is shown an example of interrogation of an ontology web service. Then, it is shown an example of data-integration with SPARQL and triples stores for recognising enantiomers across their simplified molecular-input line-entry system (SMILES).
