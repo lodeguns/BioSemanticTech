@@ -1,5 +1,5 @@
 # Bio semantic-web technologies
-In this repository are shown basical bio semantic-web technology examples
+In this repository are shown basical bio semantic-web technology examples using R, XSLT, SPARQL and Apache Jena.
 
 ### Bio semantics on metabolic netwoks and XSLT\RDF
 Is this document are represented some technologies for modelling and mapping a Knowledge Base from XSLT to RDF on a [KEGG](http://www.genome.jp/kegg/) metabolic network. Are described the R libraries to import and update an RDF\OWL, changing the semantic formats.
